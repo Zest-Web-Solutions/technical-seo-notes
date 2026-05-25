@@ -1,2 +1,21 @@
-# technical-seo-notes
-The 2015 playbook is dead. We build organic revenue engines for D2C brands using Programmatic SEO, Search Generative Experience (SGE) optimization, and aggressive technical speed enhancements that Google actually rewards.
+# Technical SEO Notes
+
+A collection of technical SEO observations, indexing frameworks, crawl optimization strategies, and ecommerce SEO architecture notes.
+
+Maintained by:
+https://zestwebsolutions.com/
+
+Topics:
+
+* crawl efficiency
+* semantic HTML
+* structured data
+* Core Web Vitals
+* indexing optimization
+* canonical systems
+* AI search readiness
+* llms.txt implementation
+* ecommerce SEO infrastructure
+
+More:
+https://zestwebsolutions.com/services/seo-services/
