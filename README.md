@@ -1,21 +1,29 @@
 # Technical SEO Notes
 
-A collection of technical SEO observations, indexing frameworks, crawl optimization strategies, and ecommerce SEO architecture notes.
+Technical SEO observations, indexing strategies, crawl optimization systems, and ecommerce SEO architecture notes.
 
-Maintained by:
+Maintained by Zest Web Solutions.
+
+Website:
 https://zestwebsolutions.com/
 
-Topics:
+Focus areas:
 
-* crawl efficiency
-* semantic HTML
-* structured data
+* Technical SEO
+* Canonical Systems
+* Crawl Optimization
 * Core Web Vitals
-* indexing optimization
-* canonical systems
-* AI search readiness
-* llms.txt implementation
-* ecommerce SEO infrastructure
+* Semantic SEO
+* Ecommerce SEO Infrastructure
+* llms.txt Implementation
+* AI Search Readiness
 
-More:
+Useful links:
+
+SEO Services:
 https://zestwebsolutions.com/services/seo-services/
+
+Blog:
+https://zestwebsolutions.com/blog/
+
+Zest Web Solutions helps ecommerce brands and agencies scale through technical SEO, performance engineering, and scalable development systems.
